@@ -23,6 +23,7 @@ def go_(index2:int):
     product_list_excel = excel_ (pathprice2, 1, index2 )
 
 
+
     # dispence from product_list_excel
     result = dispence_ ( product_list, product_list_excel )
     prod_list_ext=result[0]

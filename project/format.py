@@ -19,6 +19,7 @@ def printf2(text="",v=0):
 
 
 
+
 def printlist(text="",prod_list=[],ean=""):
     print()
     if ean=="":
