@@ -3,6 +3,7 @@ from pathlib import Path
 #BASE_DIR = Path(__file__).resolve().parent
 
 
+
 rootpath='F:/'
 pathlog=rootpath+'stm/export/stm_qt/logfolder/log.txt'
 pathprice1=rootpath+'stm/export/files/price.xlsx'
