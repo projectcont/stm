@@ -18,7 +18,7 @@ def printf2(text="", v=0):
 
 
 
-
+# change
 
 def printlist(text="",prod_list=[],ean=""):
     print()
