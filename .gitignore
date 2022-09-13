@@ -3,6 +3,7 @@
 
 # Project
 .idea/
+.files/
 *.pyc
 node_modules/
 .env
